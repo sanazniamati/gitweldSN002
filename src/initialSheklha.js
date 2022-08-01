@@ -1,0 +1,32 @@
+export default [
+  // {
+  //     // x: 10,
+  //     // y: 10,
+  //     points:[50, 50, 150, 50, 100, 150],
+  //     tension: 0.5,
+  //     // width: 1000,
+  //     // height: 1000,
+  //     fill: "yellow",
+  //     id: "item1",
+  // },
+  // {
+  //     x: 150,
+  //     y: 150,
+  //     points:[50, 50, 150, 50, 100, 150],
+  //     tension: 0.5,
+  //     // width: 100,
+  //     // height: 100,
+  //     fill: "green",
+  //     id: "item2",
+  // },
+  {
+    x: 250,
+    y: 250,
+    points: [50, 50, 150, 50, 100, 150],
+    tension: 0.5,
+    // width: 100,
+    // height: 100,
+    fill: "yellow",
+    id: "item3",
+  },
+];
